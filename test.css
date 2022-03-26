@@ -269,11 +269,16 @@ body {
   padding: 14px 25px;
 }
 
-.nav h1 {
+.nav {
   display: inline-block;
-  margin-left: 5%;
+  left: 70%;
 }
 
 .buttons {
-  right: 0;
+  margin-top: 1.5%;
+}
+
+.left2 h1,
+.left3 h1 {
+  padding: 14px 25px;
 }
