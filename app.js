@@ -4,3 +4,4 @@ const a = new fullpage("#fullPage", {
 });
 
 //hiiii
+//ok
